@@ -45,5 +45,4 @@ I'm a recent graduate in **Computer Engineering** with a passion for developing 
 
 ## 📬 **Get in Touch**
 - **Email**: [julian.nordin94@gmail.com](mailto:julian.nordin94@gmail.com)  
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/julian-nordin/)](#)  
-- **GitHub**: [Your GitHub Profile](#)
+- **LinkedIn**: [[julian-nordin](https://www.linkedin.com/in/julian-nordin/)]
